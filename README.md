@@ -1,11 +1,11 @@
 # Welcome to the growthepie 📏🥧 Backend! 
 
-[growthepie](https://growthepie.xyz/) aims to enhance transparency and understanding of the Ethereum Layer 2 ecosystem by providing comprehensive, curated data, blockspace analysis and educational resources to users, developers and investors.
+Aims to enhance transparency and understanding of the Ethereum Layer 2 ecosystem by providing comprehensive, curated data, blockspace analysis and educational resources to users, developers and investors.
 
 
 ## Backend Repository
 
-The [`gtp`](https://github.com/growthepie/gtp) repository serves as the backbone for the growthepie dashboard, providing robust L2 data pipelines and data curation.
+This repository serves as the backbone for the growthepie dashboard, providing robust L2 data pipelines and data curation.
 
 The backend operates on Python version **3.10.12**.
 
