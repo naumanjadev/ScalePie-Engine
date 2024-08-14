@@ -1,4 +1,4 @@
-# Welcome to the growthepie 📏🥧 Backend! 
+# Welcome
 
 Aims to enhance transparency and understanding of the Ethereum Layer 2 ecosystem by providing comprehensive, curated data, blockspace analysis and educational resources to users, developers and investors.
 
