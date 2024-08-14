@@ -14,6 +14,3 @@ The backend operates on Python version **3.10.12**.
 - Data pipelines from our RPC nodes, Dune, coingecko, L2Beat to our PostgreSQL database
 - Data cleaning and curation
 - Scheduling using Airflow
-
-## gtp - other Repositories
-[`gtp org`](https://github.com/growthepie)
